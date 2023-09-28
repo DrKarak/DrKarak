@@ -1,3 +1,4 @@
-- :briefcase: Working for the **Fraunhofer FHR**
 - :books: Studying **Computer Science** in Sankt Augustin
-- :snake: Programming in **Python**
+- :computer: Programming in **Python**, **Java** and **C**
+- :bulb: Interested in **Digital Forensics**, **Malware** and **Cryptography**
+- :sound: Speaking **German**, **English** and **Japanese**
