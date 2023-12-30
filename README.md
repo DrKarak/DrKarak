@@ -1,4 +1,4 @@
-- :books: Studying **Computer Science** in Sankt Augustin
+- :books: B.Sc. **Computer Science**
 - :computer: Programming in **Python**, **Java** and **C**
 - :bulb: Interested in **Digital Forensics**, **Malware** and **Cryptography**
 - :sound: Speaking **German**, **English** and **Japanese**
